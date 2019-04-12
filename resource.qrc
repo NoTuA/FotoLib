@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>Home.png</file>
+        <file>about-512.png</file>
+        <file>administrative_tools-104.png</file>
+        <file>camera-96.png</file>
+        <file>contacts-512.png</file>
+        <file>delete.png</file>
+        <file>image_file_filled-512.png</file>
+        <file>exit_filled-100.png</file>
+    </qresource>
+</RCC>
